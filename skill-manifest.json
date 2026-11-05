@@ -1,0 +1,26 @@
+{
+  "repository": "ai-website-studio",
+  "title": "AI Website Studio",
+  "master_skill": "ai-website-studio",
+  "discoverable_skills": 1,
+  "internal_modules": [
+    "frontend-engineer.md",
+    "backend-engineer.md",
+    "fullstack-engineer.md",
+    "api-engineer.md",
+    "database-engineer.md",
+    "authentication-engineer.md",
+    "ui-ux-engineer.md",
+    "human-centered-product-design.md",
+    "design-quality-critic.md",
+    "product-experience-engineer.md",
+    "INDEX.md"
+  ],
+  "module_count": 10,
+  "human_centered_modules": [
+    "human-centered-product-design",
+    "design-quality-critic",
+    "product-experience-engineer"
+  ],
+  "note": "Internal modules are reference playbooks, not separate discoverable skills."
+}
